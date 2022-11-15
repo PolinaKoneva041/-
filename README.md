@@ -16,3 +16,5 @@ $$\left( x + \frac{5}{5+\frac{1}{x}} \right)^{\frac{2}{3}}$$
 $$e^{i \pi} = -1 $$
 
 ![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114459372/200475196-4cef23fe-b273-410f-a3fb-d8ae13ce3d29.png)
+
+https://lucid.app/documents/view/03e6cc16-5178-463e-9878-3e898bd683df
